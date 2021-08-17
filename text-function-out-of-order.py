@@ -1,0 +1,17 @@
+palavra = str(input("Informe uma Palavra com 6 letras: "))
+print("----------------------------")
+variavel = (palavra[5] + palavra[4] + palavra[3] + palavra[2] + palavra[1] + palavra[0] )
+varievael2 = (palavra[0] + palavra[5] + palavra[4] + palavra[3] + palavra[2] + palavra[1] )
+print('Maiuscula: {} ou {}'.format(variavel.upper(), varievael2.upper()))
+print('ou')
+print( 'Minuscula: {} ou {}'.format(variavel.lower(), varievael2.lower()))
+
+print()
+
+palavra2 = str(input("Informe uma Palavra com 6 letras: "))
+print("----------------------------")
+variavel3 = (palavra2[5] + palavra2[4] + palavra2[3] + palavra2[2] + palavra2[1] + palavra2[0] )
+varievael4 = (palavra2[0] + palavra2[5] + palavra2[4] + palavra2[3] + palavra2[2] + palavra2[1] )
+print('Maiuscula: {} ou {}'.format(variavel3.upper(), varievael4.upper()))
+print('ou')
+print( 'Minuscula: {} ou {}'.format(variavel3.lower(), varievael4.lower()))
