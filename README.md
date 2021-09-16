@@ -13,7 +13,7 @@ Neste repositório irei colocar todo conteúdo sobre Python que venho estudando 
 * <a href="#definidas_pelo_usuario">DEFINIDA PELO USUÁRIO</a>
 
 <div id="Built-in">
-  # Estrutura de dados Built-in
+  <h1> Estrutura de dados Built-in</h1>
   
   - Listas:
    Listas de elementos. Podem receber elementos de tipos distintos como, string, números inteiros, booleanos ou até mesmo outras litas, tuplas e dicinário. Utilizamos "[ ]" para abrir e fechar uma lista.
@@ -58,7 +58,7 @@ Neste repositório irei colocar todo conteúdo sobre Python que venho estudando 
   
   </div>
   <div id="definidas_pelo_usuario">
-  # Estruturas de dados definidas pelo usuário
+  <h1>Estruturas de dados definidas pelo usuário</h1>
   
   - Listas encadeadas:
   Também conhecidas como listas ligadas, são estruturas que amarzenam dados compostos por valores conectados por ponteiros
