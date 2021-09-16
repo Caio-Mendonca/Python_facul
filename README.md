@@ -20,14 +20,14 @@ Neste repositório irei colocar todo conteúdo sobre Python que venho estudando 
   
     Ex: v = [ "abacate", "banana", "cenoura"]
   
-  Para exibir utilizamos:
-  print(v)
+   Para exibir utilizamos:
+   print(v)
   
-  Para saber o tipo usamos:
-  print(type(v))
+   Para saber o tipo usamos:
+   print(type(v))
   
-  Para imprimir somente um elemento utilizamos o índice:
-  print(v[0])
+   Para imprimir somente um elemento utilizamos o índice:
+   print(v[0])
   ----> o índice de uma lista sempre começa no 0
   
   - Tuplas:
@@ -47,7 +47,7 @@ Neste repositório irei colocar todo conteúdo sobre Python que venho estudando 
   Conjuntos de elementos únicos. Utilizamos "{ }" para abrir e fechar um conjunto.
   
     Ex: v = {1,2,3,4,5,6,7,8,9}
-  Manipulando Conjunto:
+   Manipulando Conjunto:
   
    Adicionando itens: v.add(111)
   
