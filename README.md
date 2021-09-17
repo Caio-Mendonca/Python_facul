@@ -1,17 +1,20 @@
 # Python facul
 Neste repositório irei colocar todo conteúdo sobre Python que venho estudando no curso Inteligência de mercado e análise de dados 
 
+# Sumário:
+* <a href="#">Variáveis</a>
+* <a href="#">Tipos de dados</a>
+* <a href="#">Operadores</a>
+* <a href="#">Estrutura de repetição</a>
+* <a href="#">Funções</a>
+* <a href="#estrutura_dados">Estrutura de dados</a>
 
-
-
-
-
-
-
-# Estrutura de dados
+<div id="estrutura_dados"><h1> Estrutura de dados </h1>
+  
 * <a href="#Built-in"> BUILT-IN </a>
+  
 * <a href="#definidas_pelo_usuario">DEFINIDA PELO USUÁRIO</a>
-
+</div>
 <div id="Built-in">
   <h1> Estrutura de dados Built-in</h1>
   
