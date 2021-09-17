@@ -12,7 +12,7 @@ Neste repositório irei colocar todo conteúdo sobre Python que venho estudando 
 
 
 <div id="estrutura_de_repeticao"> <h1> Estrutura de Repetição</h1>
-  <p> Em certos casos precisamos utilizar um conjunto de instruções mais de uma vez... Nestes casos será necessária a utilizaação de loops com o FOR ou WHILE
+  <p> Em certos casos precisamos utilizar um conjunto de instruções mais de uma vez... Nestes casos será necessária a utilizaação de loops com o FOR ou WHILE</P>
   
   * <a href="#"> FOR </a>
     
