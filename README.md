@@ -5,10 +5,19 @@ Neste repositório irei colocar todo conteúdo sobre Python que venho estudando 
 * <a href="#">Variáveis</a>
 * <a href="#">Tipos de dados</a>
 * <a href="#">Operadores</a>
-* <a href="#">Estrutura de repetição</a>
+* <a href="#estrutura_de_repeticao">Estrutura de repetição</a>
 * <a href="#">Estruturas condicionais</a>
 * <a href="#">Funções</a>
 * <a href="#estrutura_dados">Estrutura de dados</a>
+
+
+<div id="estrutura_de_repeticao"> <h1> Estrutura de Repetição</h1>
+  <p> Em certos casos precisamos utilizar um conjunto de instruções mais de uma vez... Nestes casos será necessária a utilizaação de loops com o FOR ou WHILE
+  
+  * <a href="#"> FOR </a>
+    
+  * <a href="#"> WHILE </a>
+</div>
 
 <div id="estrutura_dados"><h1> Estrutura de dados </h1>
   
