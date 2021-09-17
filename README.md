@@ -6,6 +6,7 @@ Neste repositório irei colocar todo conteúdo sobre Python que venho estudando 
 * <a href="#">Tipos de dados</a>
 * <a href="#">Operadores</a>
 * <a href="#">Estrutura de repetição</a>
+* <a href="#">Estrutura condicionais</a>
 * <a href="#">Funções</a>
 * <a href="#estrutura_dados">Estrutura de dados</a>
 
