@@ -83,14 +83,23 @@ Neste repositório irei colocar todo conteúdo sobre Python que venho estudando 
   São outro tipo de listas. Filas são um tipo de estrutura linear em que o primeiro item a ser adicionado é o primeiro item a ser removido. Támbem é conhecido como uma estrutura FIFO.
   
   - Árvores:
-  São um tipo de estrutura não linear, em que cada elemento é representado como um nó. A estrutura parte do chamado nó raiz (root).
+    São um tipo de estrutura não linear, em que cada elemento é representado como um nó. A estrutura parte do chamado nó raiz (root). 
+  
+    Seguem a posição: 
+  
+    1°- raiz (root): É o primeiro e não possui pai.
+  
+    2°- folha (leaf) ou terminal: Não possui filhos.
+  
+    3°- interno ou não terminal: Entre a raiz e os nós-folhas.
   <div>
     <li type="square"> Representações de árvores:
       <ul type="circle">
-          <li>Representação Hierárquica</li>
-          <li>Diagrama de inclusão/ diagrama de Venn </li>
-          <li>Diagrama com barras (usando recuos "identação")</li>
-          <li>Numeração por níveis </li>
+          <li>Representação Hierárquica.</li>
+          <li>Diagrama de inclusão/ diagrama de Venn. </li>
+          <li>Diagrama com barras (usando recuos "identação").</li>
+          <li>Numeração por níveis. </li>
+          <li>Representação por parênteses aninhados. </li>
       </ul>
     </li>
   </div>
