@@ -85,6 +85,11 @@ Neste repositório irei colocar todo conteúdo sobre Python que venho estudando 
   - Árvores:
   São um tipo de estrutura não linear, em que cada elemento é representado como um nó. A estrutura parte do chamado nó raiz (root).
   
+  --- Representações ---
+  * Representação Hierárquica
+  * Diagrama de inclusão/ diagrama de Venn
+  *
+  
   - Grafos:
   Podem ser compreendidos como um tipo de estrutura em que cada elemento é representado como um vértice, interligado por arestas que podem representar possíveis interações ou relacionamentos.
   
