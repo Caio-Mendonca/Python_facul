@@ -35,7 +35,7 @@ Neste repositório irei colocar todo conteúdo sobre Python que venho estudando 
      <ol> <strong>Funções:</strong></ol>
      <ol>Para exibir utilizamos: print(lista)</ol>
      <ol>Para saber o tipo usamos: print(type(lista))</ol>
-     <ol>Para imprimir somente um elemento utilizamos o índice: print(lista[0])</ol>
+     <ol>Para imprimir somente um elemento utilizamos o <strong>índice:</strong> print(lista[0])</ol>
  
   
     ----> o índice de uma lista sempre começa no 0
