@@ -31,17 +31,14 @@ Neste repositório irei colocar todo conteúdo sobre Python que venho estudando 
   - Listas:
    Listas de elementos. Podem receber elementos de tipos distintos como, string, números inteiros, booleanos ou até mesmo outras litas, tuplas e dicinário. Utilizamos "[ ]" para abrir e fechar uma lista.
   
-    Ex: v = [ "abacate", "banana", "cenoura"]
+    Ex: lista = [ "abacate", "banana", "cenoura"]
+     <ol> <strong>Funções:</strong></ol>
+     <ol>Para exibir utilizamos: print(lista)</ol>
+     <ol>Para saber o tipo usamos: print(type(lista))</ol>
+     <ol>Para imprimir somente um elemento utilizamos o índice: print(lista[0])</ol>
+ 
   
-   Para exibir utilizamos:
-   print(v)
-  
-   Para saber o tipo usamos:
-   print(type(v))
-  
-   Para imprimir somente um elemento utilizamos o índice:
-   print(v[0])
-  ----> o índice de uma lista sempre começa no 0
+    ----> o índice de uma lista sempre começa no 0
   
   - Tuplas:
   Uma tupla pode ser considerada uma lista imutável de elementos. Uma vez criada, não pode ser alterada. Utilizamos "( )" para abrir e fechar uma tupla. Para declarar um tupla não é necessário utilizar "()".
