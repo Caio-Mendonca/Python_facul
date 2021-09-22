@@ -34,7 +34,8 @@ Neste repositório irei colocar todo conteúdo sobre Python que venho estudando 
     Ex: lista = [ "abacate", "banana", "cenoura"]
      <ol> <strong>Funções:</strong></ol>
      <ol>Para exibir utilizamos: print(lista)</ol>
-     <ol>Para saber o tipo usamos: print(type(lista))</ol>
+     <ol>Para saber o tipo usamos: print(<b>type</b>(lista))</ol>
+     <ol>Para saber o tamanho do objeto: print(<b>len</b>(lista))</ol>
      <ol>Para imprimir somente um elemento utilizamos o <strong>índice:</strong> print(lista[0])</ol>
  
   
