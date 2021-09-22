@@ -29,7 +29,7 @@ Neste repositório irei colocar todo conteúdo sobre Python que venho estudando 
   <h1> Estrutura de dados Built-in</h1>
   
   - Listas:
-   Listas de elementos. Podem receber elementos de tipos distintos como, string, números inteiros, booleanos ou até mesmo outras litas, tuplas e dicinário. Utilizamos "[ ]" para abrir e fechar uma lista.
+   Listas de elementos. Podem receber elementos de tipos distintos como, string, números inteiros, booleanos ou até mesmo outras listas, tuplas e dicinário. Utilizamos "[ ]" para abrir e fechar uma lista.
   
   <pre>
    <strong>----> O índice de uma lista sempre começa no 0</strong>
