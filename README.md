@@ -31,16 +31,25 @@ Neste repositório irei colocar todo conteúdo sobre Python que venho estudando 
   - Listas:
    Listas de elementos. Podem receber elementos de tipos distintos como, string, números inteiros, booleanos ou até mesmo outras litas, tuplas e dicinário. Utilizamos "[ ]" para abrir e fechar uma lista.
   
+  <pre>
+   <strong>----> O índice de uma lista sempre começa no 0</strong>
+   
+   
     Ex: lista = [ "abacate", "banana", "cenoura"]
      <ol> <strong>Funções:</strong></ol>
-     <ol>Para exibir utilizamos: print(lista)</ol>
-     <ol>Para saber o tipo usamos: print(<b>type</b>(lista))</ol>
-     <ol>Para saber o tamanho do objeto: print(<b>len</b>(lista))</ol>
-     <ol>Para imprimir somente um elemento utilizamos o <strong>índice:</strong> print(lista[0])</ol>
- 
-  
-    ----> o índice de uma lista sempre começa no 0
-  
+     <ol>*Para exibir utilizamos: print(lista)</ol>
+     <ol>*Para imprimir somente um elemento utilizamos o <strong>índice:</strong> print(lista[0])</ol>
+     <ol>*Para saber o tipo usamos: print(<b>type</b>(lista))</ol>
+     <ol>*Para saber o tamanho do objeto: print(<b>len</b>(lista))</ol>
+     <ol>*Para adicionar um elemento na lista podemos usar:<br> 
+       lista<b>.append</b>("maça")o elemento é adicionado no final da lista<br> 
+       OU <br> 
+       lista<b>.insert</b>(1,"maça")no caso de usar o insert podemos indicar em que posição do indíce a variável vai ficar</ol>
+     <ol> *Para remover elementos temos duas formas de fazer:<br>
+       lista<b>.remove</b>("banana") onde declaramos o valor da variável<br>
+       OU<br>
+       lista<b>.pop</b>(0) onde removemos pela sua posição no indíce<br></ol>
+  </pre> 
   - Tuplas:
   Uma tupla pode ser considerada uma lista imutável de elementos. Uma vez criada, não pode ser alterada. Utilizamos "( )" para abrir e fechar uma tupla. Para declarar um tupla não é necessário utilizar "()".
   
