@@ -12,7 +12,7 @@ Neste repositório irei colocar todo conteúdo sobre Python que venho estudando 
 
 
 <div id="estrutura_de_repeticao"> <h1> Estrutura de Repetição</h1>
-  <p> Em certos casos precisamos utilizar um conjunto de instruções mais de uma vez... Nestes casos será necessária a utilizaação de loops com o FOR ou WHILE</P>
+  <p> Em certos casos precisamos utilizar um conjunto de instruções mais de uma vez... Nestes casos será necessária a utilizaação de loops com o FOR ou WHILE. Em Python, os loops são codificados por meio dos comandos for e while. O primeiro nos permite percorrer os itens de uma coleção e, para cada um deles, executar um bloco de código. Já o while, executa um conjunto de instruções várias vezes enquanto uma condição é atendida.</P>
   
   * <a href="#"> FOR </a>
     
