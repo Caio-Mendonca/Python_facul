@@ -1,0 +1,120 @@
+# Python facul
+Neste repositório irei colocar todo conteúdo sobre Python que venho estudando no curso Inteligência de mercado e análise de dados 
+
+# Sumário:
+* <a href="#">Variáveis</a>
+* <a href="#">Tipos de dados</a>
+* <a href="#">Operadores</a>
+* <a href="#estrutura_de_repeticao">Estrutura de repetição</a>
+* <a href="#">Estruturas condicionais</a>
+* <a href="#">Funções</a>
+* <a href="#estrutura_dados">Estrutura de dados</a>
+
+
+<div id="estrutura_de_repeticao"> <h1> Estrutura de Repetição</h1>
+  <p> Em certos casos precisamos utilizar um conjunto de instruções mais de uma vez... Nestes casos será necessária a utilizaação de loops com o FOR ou WHILE. Em Python, os loops são codificados por meio dos comandos for e while. O primeiro nos permite percorrer os itens de uma coleção e, para cada um deles, executar um bloco de código. Já o while, executa um conjunto de instruções várias vezes enquanto uma condição é atendida.</P>
+  
+  * <a href="#"> FOR </a>
+    
+  * <a href="#"> WHILE </a>
+</div>
+
+<div id="estrutura_dados"><h1> Estrutura de dados </h1>
+  
+* <a href="#Built-in"> BUILT-IN </a>
+  
+* <a href="#definidas_pelo_usuario">DEFINIDA PELO USUÁRIO</a>
+</div>
+<div id="Built-in">
+  <h1> Estrutura de dados Built-in</h1>
+  
+  - Listas:
+   Listas de elementos. Podem receber elementos de tipos distintos como, string, números inteiros, booleanos ou até mesmo outras listas, tuplas e dicinário. Utilizamos "[ ]" para abrir e fechar uma lista.
+  
+  <pre>
+   <strong>----> O índice de uma lista sempre começa no 0</strong>
+   
+   
+    Ex: lista = [ "abacate", "banana", "cenoura"]
+     <ol> <strong>Funções:</strong></ol>
+     <ol>*Para exibir utilizamos: print(lista)</ol>
+     <ol>*Para imprimir somente um elemento utilizamos o <strong>índice:</strong> print(lista[0])</ol>
+     <ol>*Para saber o tipo usamos: print(<b>type</b>(lista))</ol>
+     <ol>*Para saber o tamanho do objeto: print(<b>len</b>(lista))</ol>
+     <ol>*Para adicionar um elemento na lista podemos usar:<br> 
+       lista<b>.append</b>("maça")o elemento é adicionado no final da lista<br> 
+       OU <br> 
+       lista<b>.insert</b>(1,"maça")no caso de usar o insert podemos indicar em que posição do indíce a variável vai ficar</ol>
+     <ol> *Para remover elementos temos duas formas de fazer:<br>
+       lista<b>.remove</b>("banana") onde declaramos o valor da variável<br>
+       OU<br>
+       lista<b>.pop</b>(0) onde removemos pela sua posição no indíce<br></ol>
+  </pre> 
+  - Tuplas:
+  Uma tupla pode ser considerada uma lista imutável de elementos. Uma vez criada, não pode ser alterada. Utilizamos "( )" para abrir e fechar uma tupla. Para declarar um tupla não é necessário utilizar "()".
+  
+     EX: v = (1,2,3)---> FIXO
+  
+  - Dicionário: 
+  Um dicionário pode ser imterpretado como uma lista composta por conjuntos de pares <strong>Chave-valor</strong>. Utilizamos "{ }" para abrir e fechar um dicionário.
+  
+    <ol>Ex: v = { "A":"adenina",</ol>
+    <ol>"C":"citosina",</ol>
+    <ol>"T":"timina",</ol>
+    <ol>"G":"guanina", }</ol>
+  
+  - Conjuntos:
+  Conjuntos de elementos únicos. Utilizamos "{ }" para abrir e fechar um conjunto.
+  
+    Ex: v = {1,2,3,4,5,6,7,8,9}
+   Manipulando Conjunto:
+  
+   Adicionando itens: v.add(111)
+  
+   Removendo itens: v.remove(1)
+  
+   Impriminto os itens: print(v)
+  
+  
+  </div>
+  <div id="definidas_pelo_usuario">
+  <h1>Estruturas de dados definidas pelo usuário</h1>
+  
+  - Listas encadeadas:
+  Também conhecidas como listas ligadas, são estruturas que amarzenam dados compostos por valores conectados por ponteiros
+  
+  - Pilhas:
+  São um tipo especial de listas. Sua representação é por uma pilha de dados. Nesse tipo de estrutura de dados o primeiro elemento a ser adicionado é o último a ser removido.
+  
+  - Filas:
+  São outro tipo de listas. Filas são um tipo de estrutura linear em que o primeiro item a ser adicionado é o primeiro item a ser removido. Támbem é conhecido como uma estrutura FIFO.
+  
+  - Árvores:
+    São um tipo de estrutura não linear, em que cada elemento é representado como um nó. A estrutura parte do chamado nó raiz (root). 
+  
+    Seguem a posição: 
+  
+    1°- raiz (root): É o primeiro e não possui pai.
+  
+    2°- folha (leaf) ou terminal: Não possui filhos.
+  
+    3°- interno ou não terminal: Entre a raiz e os nós-folhas.
+  <div>
+    <li type="square"> Representações de árvores:
+      <ul type="circle">
+          <li>Representação Hierárquica.</li>
+          <li>Diagrama de inclusão/ diagrama de Venn. </li>
+          <li>Diagrama com barras (usando recuos "identação").</li>
+          <li>Numeração por níveis. </li>
+          <li>Representação por parênteses aninhados. </li>
+      </ul>
+    </li>
+  </div>
+  
+  - Grafos:
+  Podem ser compreendidos como um tipo de estrutura em que cada elemento é representado como um vértice, interligado por arestas que podem representar possíveis interações ou relacionamentos.
+  
+  - Hash-map:
+  Vincula uma chave a um determinado valor (figura). Assim, para obter um valor, basta informar a chave. São siimilares aos dicionários Python. 
+    
+  </div>
