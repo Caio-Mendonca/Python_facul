@@ -5,6 +5,7 @@ class visualizazaoGrafo:
     def __init__(self):
         self.visual = []
 
+
     def adicionaAresta(self, a, b):
         temp = [a, b] #Argamazena as arestas temporárias
         self.visual.append(temp) #Insere na linha visual
