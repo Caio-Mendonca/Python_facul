@@ -1,3 +1,5 @@
+import math
+
 print("Calculadora Python")
 print("-"*35)
 
@@ -32,12 +34,12 @@ elif operacao == '/':
 
 elif operacao == '$':
     print('{} ** {} = '.format(numero_1, numero_2))
-    resultado_potenciacao = (numero_1 ** numero_2)
     print(numero_1 ** numero_2)
 
 elif operacao == '#':
-    print('{} % {} = '.format(numero_1, numero_2))
-    print(numero_1 % numero_2)
+    resultado_potenciacao = (numero_1 ** numero_2)
+    print('{} ** {} = '.format(numero_1, numero_2))
+    print( math.sqrt(resultado_potenciacao))
 
 else:
     print("Você não escolheu uma operção válida, por favor tente novamente.")
