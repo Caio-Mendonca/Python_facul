@@ -40,4 +40,4 @@ elif operacao == '#':
     print(resultado)
 
 else:
-    print("Você não escolheu uma operção válida, por favor tente novamente.")
+    print("Você não escolheu uma operação válida, por favor tente novamente.")
