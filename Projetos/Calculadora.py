@@ -7,6 +7,8 @@ Escolha a operação que deseja realizar:
 -  para subtração
 *  para multiplicação
 /  para divisão
+$  para potenciação
+#  para radiciação
 ''')
 
 numero_1 = int(input('Escreva o primeiro número: '))
@@ -27,6 +29,14 @@ elif operacao == '*':
 elif operacao == '/':
     print('{} / {} = '.format(numero_1, numero_2))
     print(numero_1 / numero_2)
+
+elif operacao == '$':
+    print('{} ** {} = '.format(numero_1, numero_2))
+    print(numero_1 ** numero_2)
+
+elif operacao == '#':
+    print('{} % {} = '.format(numero_1, numero_2))
+    print(numero_1 % numero_2)
 
 else:
     print("Você não escolheu uma operção válida, por favor tente novamente.")
